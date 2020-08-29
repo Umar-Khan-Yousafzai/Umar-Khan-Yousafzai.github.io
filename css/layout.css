@@ -329,7 +329,6 @@ ul#nav li.current a { color: #F06000; }
   	width: 60%;
   	-moz-animation: photoshop 2s ease;
   	-webkit-animation: photoshop 2s ease;
-    color: red;
 }
 .illustrator {
   	width: 55%;
@@ -340,6 +339,7 @@ ul#nav li.current a { color: #F06000; }
   	width: 50%;
   	-moz-animation: wordpress 2s ease;
   	-webkit-animation: wordpress 2s ease;
+    background-color: linear-gradient(90deg, #0700b8 0%, #00ff88 100%);
 }
 .css {
   	width: 90%;
