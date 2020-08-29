@@ -298,13 +298,13 @@ ul#nav li.current a { color: #F06000; }
 .bars li {
    position: relative;
   	margin-bottom: 60px;
-  	background: linear-gradient(90deg, #1CB5E0 0%, #000851 100%);
+  	background: #ccc;
   	height: 42px;
   	border-radius: 3px;
 }
 .bars li em {
 	font: 15px 'opensans-bold', sans-serif;
-   color: #313131;
+   color: red;
 	text-transform: uppercase;
    letter-spacing: 2px;
 	font-weight: normal;
@@ -329,7 +329,7 @@ ul#nav li.current a { color: #F06000; }
   	width: 60%;
   	-moz-animation: photoshop 2s ease;
   	-webkit-animation: photoshop 2s ease;
-    
+
 }
 .illustrator {
   	width: 55%;
