@@ -339,7 +339,7 @@ ul#nav li.current a { color: #F06000; }
   	width: 50%;
   	-moz-animation: wordpress 2s ease;
   	-webkit-animation: wordpress 2s ease;
-background: linear-gradient(90deg, rgba(221,37,208,1) 46%, rgba(221,56,212,1) 95%) !important;}
+background-color: linear-gradient(90deg, rgba(221,37,208,1) 46%, rgba(221,56,212,1) 95%) !important;}
 .css {
   	width: 90%;
   	-moz-animation: css 2s ease;
