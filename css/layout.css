@@ -344,6 +344,7 @@ ul#nav li.current a { color: #F06000; }
   	width: 90%;
   	-moz-animation: css 2s ease;
   	-webkit-animation: css 2s ease;
+     background-color: purple !important;
 }
 .html5 {
   	width: 80%;
