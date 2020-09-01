@@ -339,18 +339,16 @@ ul#nav li.current a { color: #F06000; }
   	width: 50%;
   	-moz-animation: wordpress 2s ease;
   	-webkit-animation: wordpress 2s ease;
-background-color: linear-gradient(90deg, rgba(221,37,208,1) 46%, rgba(221,56,212,1) 95%) !important;}
+}
 .css {
   	width: 90%;
   	-moz-animation: css 2s ease;
   	-webkit-animation: css 2s ease;
-     background-color: purple !important;
 }
 .html5 {
   	width: 80%;
   	-moz-animation: html5 2s ease;
   	-webkit-animation: html5 2s ease;
-    background-color: green !important;
 }
 .jquery {
   	width: 50%;
